@@ -14,7 +14,14 @@
 
 
 ## ¿ Qui suis-je ?
- Je suis un touche a tout. J'aime construire/bricoler/fabriquer/démonter (defois sans remonter). Je suis calme et patient, un peu têtu, mais pas chiant. J'aime la musique comme le métal, le métal ou bien le métal. J'aime bien cuisiner mais cela me prend du temps que je n'ai pas toujours. J'aime la science, surtout l'astronomie et physique.
+
+### Bricoleur, un peu têtu, 100% passioné
+J’aime bidouiller, construire, démonter (et parfois oublier comment remonter…). Calme et patient, je ne lâche pas facilement un projet, mais toujours sans prise de tête.
+
+**Centres d’intérêt**
+- La musique : du métal, encore du métal, toujours du métal.
+- La cuisine : j’adore ça, mais entre le boulot et le reste, le temps file vite !
+- Les sciences : surtout l’astronomie et la physique, pour comprendre comment tout ça marche.
 
  > ***NOTE*** -> Ajoutons a cela un peu d'humour
 
@@ -28,22 +35,21 @@ print(p==np)
 
 ## Actualité
 
-Depuis enfant j'aime les jeux vidéo et les technologies informatiques. Je les trifouille/bidouille/farfouille/ en amateur. J'ai beaucoup appris en autodidacte la programmation Python/Web/android. J'aimerais valider mes compétences et connaissances dans ce domaine grâce au diplôme de CDA[²].
+Depuis que je suis gosse, les jeux vidéo et l’informatique, c’est mon truc. J’ai toujours aimé fouiller, tester, casser (et réparer !) pour comprendre comment ça marche. En autodidacte, j’ai appris à coder en Python, à développer pour le web et même à bidouiller des applis Android.
+Aujourd’hui, j’ai envie de passer à la vitesse supérieure : valider tout ça avec le diplôme de Concepteur Développeur d’Applications (CDA) pour en faire mon métier.
 
 
-- [x] Cours openclassroom
-- [x] Casser puis réparer un PC
-- [x] Bricoler des machines avec un Raspberry
-- [x] Exercice LeetCode
-- [ ] Diplome
+- [x] Suivi des cours OpenClassrooms
+- [x] Casseé/Démonté/Remonté plus d’un PC (et oui, ils se remontent !)
+- [x] Bricolé des projets avec Raspberry Pi
+- [x] Bossé mes algorithmes sur LeetCode
+- [ ] Décrocher le diplôme O’clock !
 
 ## Histoire
 
 > ***CAUTION*** -> Je ne suis vraiment pas du genre à raconter ma vie
 
-Née en Savoie, je suis fils de charpentier. J'ai obtenu un CAP d'ébéniste à Aubenas. J'ai lancé mon entreprise de menuiserie/charpente. Après dix années de dur labeur, je me reconvertis en informatique car c'est une passion.
-
-
+Fils de charpentier, j’ai grandi en Savoie et appris le métier en obtenant mon CAP Ébéniste à Aubenas. J’ai ensuite monté ma boîte de menuiserie-charpente et bossé dix ans sur le terrain. Aujourd’hui, je me lance un nouveau défi : me reconvertir dans l’informatique, une passion qui me tien a coeur depuis longtemps.
 
  ```python
  while alive:
@@ -51,8 +57,6 @@ Née en Savoie, je suis fils de charpentier. J'ai obtenu un CAP d'ébéniste à 
     eat()
     sleep()
  ```
-
-
 
 [Mon profil LinkedIn](https://www.linkedin.com/in/adrien-poncet-636660344)
 
